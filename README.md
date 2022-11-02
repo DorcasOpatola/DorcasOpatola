@@ -1,8 +1,8 @@
 - 👋   Hi, I’m @DorcasOpatola
 
-- 👀   I’m interested in creating healthcare/medical solutions with tech.
+- 👀   I am a Chemist intrested in healthcare/medical solutions with tech.
 
-- 🌱   I’m currently learning software engineering with ALX - C, shell, git, and other amazing stuffs.
+- 🌱   I’m currently learning software engineering with ALX & STUTERN - C, shell, git, and other amazing stuffs.
 
 - 💞️   I’m looking to collaborate on open source projects and software engineering projects.
 
